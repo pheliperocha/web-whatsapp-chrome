@@ -8,7 +8,11 @@
           "128": "icon128.png"
      },
      "permissions": [
-          "webview"
+          "webview",
+          "notifications",
+          "audio",
+          "audioCapture",
+          "videoCapture"
      ],
      "app": {
           "background": {
